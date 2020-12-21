@@ -3,8 +3,7 @@
 ;	(The "middle" can be obtained halving the string's size, which is
 ;	returned by the read sysem call.)
 ;
-;	- Use the addressing mode to calculate 3*n + 1, where n is the value of
-;	a register of your choice.
+
 
 
 global _start
